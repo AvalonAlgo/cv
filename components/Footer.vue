@@ -2,17 +2,12 @@
   <div
     class="flex flex-row justify-between p-8 items-center rounded-lg bg-gray-900"
   >
-    <div class="flex flex-row">
+    <div class="flex flex-row justify-items-center">
       <a
         class="flex title-font font-medium items-center md:justify-start justify-center text-white"
       >
         Deniz Keskin
       </a>
-      <p
-        class="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0 mt-4 subpixel-antialiased"
-      >
-        Powered by energy drinks
-      </p>
     </div>
     <span class="flex flex-row">
       <NuxtLink to="https://www.linkedin.com/in/dekesk" class="text-gray-400">
